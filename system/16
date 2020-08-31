@@ -1,0 +1,2 @@
+Runing specific tasks following a regular schedule possible by using crontab file.
+It is edited using crontab command. The service name is cron.

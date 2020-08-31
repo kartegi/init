@@ -1,0 +1,4 @@
+#!/bin/bash
+read usr
+pkill -9 -u `id -u $usr`
+sudo userdel $usr

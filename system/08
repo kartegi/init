@@ -1,0 +1,1 @@
+By defoult the RSA keys are located in .ssh/authorized_keys. I have 2 locations: .ssh/authorized_keys and .ssh/authorized_keys2

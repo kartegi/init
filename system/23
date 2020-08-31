@@ -1,0 +1,5 @@
+Graphic session:
+Top-left corner, UserName, Switch User
+SSH session:
+First of all we need to have root login allowed in sshd_config file. PermitRootLogin should be yes or
+pronhibit-password if root password is known. Then we create newUser and use su newUserName.

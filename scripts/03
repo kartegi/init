@@ -1,0 +1,3 @@
+#!/bin/bash
+read text
+find ~/ -name $text -print
